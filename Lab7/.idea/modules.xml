@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lab7.iml" filepath="$PROJECT_DIR$/.idea/Lab7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mappedbus/Mappedbus.iml" filepath="$PROJECT_DIR$/Mappedbus/Mappedbus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mappedbus/src/Mappedbus1.iml" filepath="$PROJECT_DIR$/Mappedbus/src/Mappedbus1.iml" />
+    </modules>
+  </component>
+</project>
